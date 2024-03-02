@@ -37,7 +37,7 @@ const telebe = [
     }
 ]
 
-for(let i=0; i<telebeler.length ; i++ ) {
+for(let i=0; i<telebe.length ; i++ ) {
     console.log(telebe[i].ad)
 }
 
